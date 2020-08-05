@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-unresolved
 import GameSavingLoader from '../GameSavingLoader.js';
 
 test('should call our callback', (data) => {
